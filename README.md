@@ -1,1 +1,1 @@
-# Covid - PowerBI
+# Covid - PowerBI Dashboard
